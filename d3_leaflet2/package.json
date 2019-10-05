@@ -1,0 +1,14 @@
+{
+  "name": "@gustavo/d3-com-crossfilter-e-dc-js-e-leaflet-parte-2",
+  "main": "d/7072daa7cd50fbe9.js",
+  "version": "384.0.0",
+  "homepage": "https://observablehq.com/@gustavo/d3-com-crossfilter-e-dc-js-e-leaflet-parte-2",
+  "author": {
+    "name": "Gustavo Moraes",
+    "url": "https://observablehq.com/@gustavo"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
