@@ -5,7 +5,7 @@
 [index.html Parte 1](d3_network/index.html)<br>
 [index.html Parte 2](d3_network2/index.html)<br>
 
-## Aula do dia 30/09/2019 parte 1
+## Aula do dia 30/09/2019
 
 [index.html Parte 1](d3_leaflet/index.html)<br>
 [index.html Parte 2](d3_leaflet2/index.html)<br>
