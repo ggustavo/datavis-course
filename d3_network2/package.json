@@ -1,0 +1,14 @@
+{
+  "name": "@gustavo/les-miserables",
+  "main": "d/1db94a1a84a064f7.js",
+  "version": "85.0.0",
+  "homepage": "https://observablehq.com/@gustavo/les-miserables",
+  "author": {
+    "name": "Gustavo Moraes",
+    "url": "https://observablehq.com/@gustavo"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

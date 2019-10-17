@@ -1,0 +1,14 @@
+{
+  "name": "@gustavo/similar-song-network/2",
+  "main": "d/87ba46702ca5d78f.js",
+  "version": "55.0.0",
+  "homepage": "https://observablehq.com/@gustavo/similar-song-network/2",
+  "author": {
+    "name": "Gustavo Moraes",
+    "url": "https://observablehq.com/@gustavo"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
