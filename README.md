@@ -1,10 +1,14 @@
-## Aula do dia 30/09/2019 parte 2
 
-[index.html](d3_leaflet2/index.html)<br>
+## Aula do dia 09/10/2019
+
+
+[index.html Parte 1](d3_network/index.html)<br>
+[index.html Parte 2](d3_network2/index.html)<br>
 
 ## Aula do dia 30/09/2019 parte 1
 
-[index.html](d3_leaflet/index.html)<br>
+[index.html Parte 1](d3_leaflet/index.html)<br>
+[index.html Parte 2](d3_leaflet2/index.html)<br>
 
 
 ## Aula do dia 25/09/2019
