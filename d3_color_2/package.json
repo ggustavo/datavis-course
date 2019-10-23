@@ -1,0 +1,14 @@
+{
+  "name": "@gustavo/homicidios-em-fortaleza-em-2012",
+  "main": "d/304048c4f3147a2a.js",
+  "version": "141.0.0",
+  "homepage": "https://observablehq.com/@gustavo/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "Gustavo Moraes",
+    "url": "https://observablehq.com/@gustavo"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
