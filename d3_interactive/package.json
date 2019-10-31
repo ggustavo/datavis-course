@@ -1,0 +1,14 @@
+{
+  "name": "@gustavo/taxa-de-desemprego-nos-eua-em-agosto-de-2016-versao-spam",
+  "main": "3e86fe93aa427c52@122.js",
+  "version": "122.0.0",
+  "homepage": "https://observablehq.com/@gustavo/taxa-de-desemprego-nos-eua-em-agosto-de-2016-versao-spam",
+  "author": {
+    "name": "Gustavo Moraes",
+    "url": "https://observablehq.com/@gustavo"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
